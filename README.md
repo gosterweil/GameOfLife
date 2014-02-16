@@ -1,6 +1,7 @@
 #Game Of Life
 A very simple implementation of Conway's Game of Life with Python and Pygame
 
+By George Osterweil
 ##About 
 
 Conway's Game of Life is a cellular automaton designed by the British mathematician John Conway. Often called a zero-player game, the 'game' simulates the growth of cells from an initial state by following a very simple set of rules.
