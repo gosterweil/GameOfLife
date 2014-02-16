@@ -92,7 +92,6 @@ frame_length = 500
 while True:
 	draw_grid()
 	draw_grid_lines()
-
 	for event in pygame.event.get(): 	#Event loop
 		if event.type == pygame.QUIT:
 			sys.exit()
