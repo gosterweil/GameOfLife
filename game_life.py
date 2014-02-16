@@ -90,7 +90,6 @@ timer_on = False
 frame_length = 500
 #Begin main loop
 while True:
-	#update_grid(grid)
 	draw_grid()
 	draw_grid_lines()
 
